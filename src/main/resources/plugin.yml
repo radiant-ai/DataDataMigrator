@@ -1,0 +1,5 @@
+name: Datamigrator
+version: '${project.version}'
+main: fun.milkyway.datamigrator.Datamigrator
+api-version: 1.18
+depend: [ EzClans, CMI, WorldGuard ]
